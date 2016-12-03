@@ -1,4 +1,5 @@
-highlighter: pygments
+# highlighter: pygments
+highlighter: rogue
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
@@ -7,29 +8,31 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
+url: http://adityagupta679.github.io/resume
+author: Aditya Gupta
 
 # edit this section with your information
-# biomadeira.github.io - all contents run on /vitae/
+# biomadeira.github.io - all contents run on /resume/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
-google_analytics: UA-69300817-1
+baseurl: /resume/
+title: Aditya Gupta's Resume
+name: Aditya Gupta
+email: adityagupta679@gmail.com
+email_full: mailto:adityagupta679@gmail.com
+website: adityagupta679.github.io
+website_full: https://adityagupta679.github.io
+github: adityagupta679
+# twitter: twitter
+linkedin: adityagupta679
+tel: +91 9419209630 
+tel_full: tel:+919419209630
+# google_maps: 'https://www.google.co.uk/maps/place/Channi+Himmat,+Jammu,+Jammu+and+Kashmir'
+address: 524/3 Channi Himmat
+postcode: 180015
+city: Jammu
+state: Jammu and Kashmir
+country: India
+google_analytics: 
 
 # needed for travis-ci build
 exclude: [vendor]
