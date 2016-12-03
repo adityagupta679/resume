@@ -1,5 +1,5 @@
 # highlighter: pygments
-highlighter: rogue
+highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
