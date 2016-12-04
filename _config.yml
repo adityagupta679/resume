@@ -8,7 +8,7 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://adityagupta679.github.io/resume
+url: http://resume.adityagupta679.github.io
 author: Aditya Gupta
 
 # edit this section with your information
