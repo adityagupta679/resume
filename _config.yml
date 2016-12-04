@@ -14,7 +14,7 @@ author: Aditya Gupta
 # edit this section with your information
 # biomadeira.github.io - all contents run on /resume/
 # for a normal use at the base of the server change it to "/"
-baseurl: /resume/
+baseurl: http://resume.adityagupta679.github.io
 title: Aditya Gupta's Resume
 name: Aditya Gupta
 email: adityagupta679@gmail.com
